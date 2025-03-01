@@ -14,7 +14,7 @@ async function testTwilioService() {
         console.log('BASE_URL:', process.env.BASE_URL);
         console.log('TWILIO_PHONE_NUMBER:', process.env.TWILIO_PHONE_NUMBER);
         
-        const testNumber = '+18447440896'; // Replace with your test number
+        const testNumber = '+19178686699'; // Replace with your test number
         
         // Test making a call
         console.log('Testing outbound call...');

@@ -9,7 +9,7 @@ async function testIntegration() {
     
     try {
         // Replace with your test phone number
-        const testNumber = '+19165478196';
+        const testNumber = '+19178686699';
         
         console.log(`Initiating test call to ${testNumber}`);
         const callSid = await callManagerService.initiateCall(testNumber);

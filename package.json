@@ -17,14 +17,14 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@fastify/formbody": "^8.0.1",
-    "@fastify/websocket": "^11.0.1",
+    "@fastify/formbody": "^8.0.2",
+    "@fastify/websocket": "^11.0.2",
     "axios": "^1.7.9",
     "dotenv": "^16.4.7",
-    "fastify": "^5.1.0",
+    "fastify": "^5.2.1",
     "openai": "^4.76.3",
-    "twilio": "^5.4.0",
-    "ws": "^8.18.0"
+    "twilio": "^5.4.5",
+    "ws": "^8.18.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.9"
